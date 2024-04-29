@@ -1,7 +1,9 @@
 import { Outlet } from "react-router-dom";
 
-export const TemplateName = () => (
+const TemplateName = () => (
 	<>
 		<Outlet />
 	</>
 );
+
+export default TemplateName;
