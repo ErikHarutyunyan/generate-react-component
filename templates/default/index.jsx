@@ -1,1 +1,1 @@
-export { default as TemplateName } from "./TemplateName.lazy.jsx";
+export { default as TemplateName } from "./TemplateName.jsx";
